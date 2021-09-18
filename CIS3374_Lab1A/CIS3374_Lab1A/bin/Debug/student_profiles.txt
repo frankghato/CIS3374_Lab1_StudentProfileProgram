@@ -1,0 +1,9 @@
+Name: Gatto, Frank A
+Age: 23
+TUID: 111111111
+Email Address: email@email.com
+Phone Number: 111-111-1111
+Major: ist
+Expected Graduation Date: 01/01/2022
+Undergraduate or Graduate: Graduate
+Gender: Male

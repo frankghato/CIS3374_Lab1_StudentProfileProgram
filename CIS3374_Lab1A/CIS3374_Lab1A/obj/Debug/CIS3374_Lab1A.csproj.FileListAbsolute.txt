@@ -1,0 +1,10 @@
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\bin\Debug\CIS3374_Lab1A.exe.config
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\bin\Debug\CIS3374_Lab1A.exe
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\bin\Debug\CIS3374_Lab1A.pdb
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.Form1.resources
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.Properties.Resources.resources
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.csproj.GenerateResource.cache
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.exe
+C:\Users\Frank\Desktop\New folder\CIS3374_Lab1A\CIS3374_Lab1A\obj\Debug\CIS3374_Lab1A.pdb
